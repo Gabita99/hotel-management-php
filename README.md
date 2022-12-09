@@ -90,7 +90,7 @@ If you just require the frontend files of this project see the project [https://
     - [x] - Statistics(Charts.js)
     - [x] - View my reservations
 
-## Other
+## Otherr
 
 - A database export copy is included in the file `database.sql`
 - Please note that to utilize this you need to have a database named `hotel` in your DBMS(Mysql) and a user `admin` with password `admin` with all previleges.
